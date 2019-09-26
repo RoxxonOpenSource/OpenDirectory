@@ -40,7 +40,7 @@ At its heart, NEXT is about replacing trust with cryptographic truth. It is a fe
 ![User_request_dashboard](./readmeUI/NextUI/admin_history.png) 
 
 
-This flow highlights the typical use-case of this platform. The a user requests access to be apart of a group. The owner of the group either accepts or rejects the user's request. The owner's activity log gets updated and auditing can be done in a fast and simple manner reducing overhead.
+This flow highlights the typical use-case of this platform. The user requests access to be apart of a group. The owner of the group either accepts or rejects the user's request. The owner's activity log gets updated and auditing can be done in a fast and simple manner reducing overhead.
 
 
 ## How to Contribute  
