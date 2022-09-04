@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # -----------------------------------------------------------------------------
-FROM python:3.5-slim-jessie
+FROM python:3.7.13-buster
 RUN apt-get update -y && \
         apt-get install -y apt-file && \
         apt-file update && \

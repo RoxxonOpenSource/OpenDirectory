@@ -13,7 +13,7 @@
 # limitations under the License.
 # -----------------------------------------------------------------------------
 
-FROM python:3.5-slim-jessie
+FROM python:3.7.13-buster
 RUN pip install \
         pyyaml==4.2b1 \
         pyasn1==0.4.4 \

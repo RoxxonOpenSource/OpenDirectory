@@ -17,7 +17,7 @@
 # test-runner_1  | cachedir: .pytest_cache
 # test-runner_1  | rootdir: /project/hyperledger-rbac, inifile: pytest.ini
 # test-runner_1  | plugins: sanic-0.1.15, env-0.6.2, cov-2.6.0
-FROM python:3.5-slim-jessie
+FROM python:3.7.13-buster
 RUN apt-get update -y && \
         apt-get install -y apt-file && \
         apt-file update && \
